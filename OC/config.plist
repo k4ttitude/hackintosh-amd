@@ -1914,7 +1914,9 @@
 		<key>Automatic</key>
 		<true/>
 		<key>CustomMemory</key>
-			<dict>
+		<true/>
+		<key>Memory</key>
+		<dict>
 			<key>DataWidth</key>
 			<integer>64</integer>
 			<key>ErrorCorrection</key>

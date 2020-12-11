@@ -1715,7 +1715,8 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array/>
+		<array>
+		</array>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
@@ -2159,7 +2160,7 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>MLB</key>
-			<string>F5K736310J9FHDDJC</string>
+			<string>F5K016403GUK3F7AD</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -2167,11 +2168,11 @@
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>MacPro6,1</string>
+			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KVC0EJF9VM</string>
+			<string>F5KCL0F0P7QM</string>
 			<key>SystemUUID</key>
-			<string>1000DA2C-6FA8-4ACF-A2FC-7BD0265E33BC</string>
+			<string>0236C226-84F0-4B32-9B0E-459D73A8D88C</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

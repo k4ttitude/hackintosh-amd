@@ -1951,7 +1951,7 @@
 					<key>Size</key>
 					<integer>16384</integer>
 					<key>Speed</key>
-					<integer>3000</integer>
+					<integer>2400</integer>
 				</dict>
 				<dict>
 					<key>AssetTag</key>
@@ -1987,7 +1987,7 @@
 					<key>Size</key>
 					<integer>16384</integer>
 					<key>Speed</key>
-					<integer>3000</integer>
+					<integer>2400</integer>
 				</dict>
 				<dict>
 					<key>AssetTag</key>

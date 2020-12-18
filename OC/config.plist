@@ -1932,7 +1932,7 @@
 			<key>Type</key>
 			<integer>26</integer>
 			<key>TypeDetail</key>
-			<integer>1</integer>
+			<integer>23</integer>
 			<key>Devices</key>
 			<array>
 				<dict>
@@ -1943,11 +1943,11 @@
 					<key>DeviceLocator</key>
 					<string>DIMM 0</string>
 					<key>Manufacturer</key>
-					<string>Unknown</string>
+					<string>Advanced Micro Devices, Inc.</string>
 					<key>PartNumber</key>
-					<string>F4-3600C18-16GT</string>
+					<string>F4-3600C18-16GTZN</string>
 					<key>SerialNumber</key>
-					<string>D4C36F1B</string>
+					<string>F5KCL0F0P7QM</string>
 					<key>Size</key>
 					<integer>16384</integer>
 					<key>Speed</key>
@@ -1957,9 +1957,9 @@
 					<key>AssetTag</key>
 					<string></string>
 					<key>BankLocator</key>
-					<string></string>
+					<string>P0 CHANNEL A</string>
 					<key>DeviceLocator</key>
-					<string>Slot 2</string>
+					<string>DIMM 1</string>
 					<key>Manufacturer</key>
 					<string>Acidanthera</string>
 					<key>PartNumber</key>
@@ -1979,11 +1979,11 @@
 					<key>DeviceLocator</key>
 					<string>DIMM 0</string>
 					<key>Manufacturer</key>
-					<string>Unknown</string>
+					<string>Advanced Micro Devices, Inc.</string>
 					<key>PartNumber</key>
-					<string>F4-3600C18-16GT</string>
+					<string>F4-3600C18-16GTZN</string>
 					<key>SerialNumber</key>
-					<string>D4C37182</string>
+					<string>F5KCL0F0P7QM</string>
 					<key>Size</key>
 					<integer>16384</integer>
 					<key>Speed</key>
@@ -1993,9 +1993,9 @@
 					<key>AssetTag</key>
 					<string></string>
 					<key>BankLocator</key>
-					<string></string>
+					<string>P0 CHANNEL B</string>
 					<key>DeviceLocator</key>
-					<string>Slot 4</string>
+					<string>DIMM 1</string>
 					<key>Manufacturer</key>
 					<string>Acidanthera</string>
 					<key>PartNumber</key>
@@ -2013,7 +2013,7 @@
 					<key>BankLocator</key>
 					<string></string>
 					<key>DeviceLocator</key>
-					<string>Slot 5</string>
+					<string>DIMM_EMPTY</string>
 					<key>Manufacturer</key>
 					<string>Acidanthera</string>
 					<key>PartNumber</key>
@@ -2031,7 +2031,7 @@
 					<key>BankLocator</key>
 					<string></string>
 					<key>DeviceLocator</key>
-					<string>Slot 6</string>
+					<string>DIMM_EMPTY</string>
 					<key>Manufacturer</key>
 					<string>Acidanthera</string>
 					<key>PartNumber</key>
@@ -2049,7 +2049,7 @@
 					<key>BankLocator</key>
 					<string></string>
 					<key>DeviceLocator</key>
-					<string>Slot 7</string>
+					<string>DIMM_EMPTY</string>
 					<key>Manufacturer</key>
 					<string>Acidanthera</string>
 					<key>PartNumber</key>
@@ -2067,7 +2067,7 @@
 					<key>BankLocator</key>
 					<string></string>
 					<key>DeviceLocator</key>
-					<string>Slot 8</string>
+					<string>DIMM_EMPTY</string>
 					<key>Manufacturer</key>
 					<string>Acidanthera</string>
 					<key>PartNumber</key>
@@ -2085,7 +2085,7 @@
 					<key>BankLocator</key>
 					<string></string>
 					<key>DeviceLocator</key>
-					<string>Slot 9</string>
+					<string>DIMM_EMPTY</string>
 					<key>Manufacturer</key>
 					<string>Acidanthera</string>
 					<key>PartNumber</key>
@@ -2103,7 +2103,7 @@
 					<key>BankLocator</key>
 					<string></string>
 					<key>DeviceLocator</key>
-					<string>Slot 10</string>
+					<string>DIMM_EMPTY</string>
 					<key>Manufacturer</key>
 					<string>Acidanthera</string>
 					<key>PartNumber</key>
@@ -2121,7 +2121,7 @@
 					<key>BankLocator</key>
 					<string></string>
 					<key>DeviceLocator</key>
-					<string>Slot 11</string>
+					<string>DIMM_EMPTY</string>
 					<key>Manufacturer</key>
 					<string>Acidanthera</string>
 					<key>PartNumber</key>
@@ -2139,7 +2139,7 @@
 					<key>BankLocator</key>
 					<string></string>
 					<key>DeviceLocator</key>
-					<string>Slot 12</string>
+					<string>DIMM_EMPTY</string>
 					<key>Manufacturer</key>
 					<string>Acidanthera</string>
 					<key>PartNumber</key>

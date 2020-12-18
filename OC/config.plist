@@ -1932,7 +1932,7 @@
 			<key>Type</key>
 			<integer>26</integer>
 			<key>TypeDetail</key>
-			<integer>46</integer>
+			<integer>1</integer>
 			<key>Devices</key>
 			<array>
 				<dict>
@@ -1945,13 +1945,13 @@
 					<key>Manufacturer</key>
 					<string>Unknown</string>
 					<key>PartNumber</key>
-					<string>VMA44UH-MEC1U2AW2</string>
+					<string>F4-3600C18-16GT</string>
 					<key>SerialNumber</key>
 					<string>D4C36F1B</string>
 					<key>Size</key>
 					<integer>16384</integer>
 					<key>Speed</key>
-					<integer>2400</integer>
+					<integer>3600</integer>
 				</dict>
 				<dict>
 					<key>AssetTag</key>
@@ -1981,13 +1981,13 @@
 					<key>Manufacturer</key>
 					<string>Unknown</string>
 					<key>PartNumber</key>
-					<string>VMA44UH-MEC1U2AW2</string>
+					<string>F4-3600C18-16GT</string>
 					<key>SerialNumber</key>
 					<string>D4C37182</string>
 					<key>Size</key>
 					<integer>16384</integer>
 					<key>Speed</key>
-					<integer>2400</integer>
+					<integer>3600</integer>
 				</dict>
 				<dict>
 					<key>AssetTag</key>

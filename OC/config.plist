@@ -1943,15 +1943,15 @@
 					<key>DeviceLocator</key>
 					<string>DIMM 0</string>
 					<key>Manufacturer</key>
-					<string>Advanced Micro Devices, Inc.</string>
+					<string>Acidanthera</string>
 					<key>PartNumber</key>
-					<string>F4-3600C18-16GTZN</string>
+					<string></string>
 					<key>SerialNumber</key>
-					<string>F5KCL0F0P7QM</string>
+					<string></string>
 					<key>Size</key>
-					<integer>16384</integer>
+					<integer>1</integer>
 					<key>Speed</key>
-					<integer>3600</integer>
+					<integer>1</integer>
 				</dict>
 				<dict>
 					<key>AssetTag</key>
@@ -1961,25 +1961,7 @@
 					<key>DeviceLocator</key>
 					<string>DIMM 1</string>
 					<key>Manufacturer</key>
-					<string>Acidanthera</string>
-					<key>PartNumber</key>
-					<string></string>
-					<key>SerialNumber</key>
-					<string></string>
-					<key>Size</key>
-					<integer>1</integer>
-					<key>Speed</key>
-					<integer>1</integer>
-				</dict>
-				<dict>
-					<key>AssetTag</key>
-					<string></string>
-					<key>BankLocator</key>
-					<string>P0 CHANNEL B</string>
-					<key>DeviceLocator</key>
-					<string>DIMM 0</string>
-					<key>Manufacturer</key>
-					<string>Advanced Micro Devices, Inc.</string>
+          <string>Advanced Micro Devices, Inc.</string>
 					<key>PartNumber</key>
 					<string>F4-3600C18-16GTZN</string>
 					<key>SerialNumber</key>
@@ -1995,7 +1977,7 @@
 					<key>BankLocator</key>
 					<string>P0 CHANNEL B</string>
 					<key>DeviceLocator</key>
-					<string>DIMM 1</string>
+					<string>DIMM 0</string>
 					<key>Manufacturer</key>
 					<string>Acidanthera</string>
 					<key>PartNumber</key>
@@ -2006,6 +1988,24 @@
 					<integer>1</integer>
 					<key>Speed</key>
 					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string>P0 CHANNEL B</string>
+					<key>DeviceLocator</key>
+					<string>DIMM 1</string>
+					<key>Manufacturer</key>
+          <string>Advanced Micro Devices, Inc.</string>
+					<key>PartNumber</key>
+					<string>F4-3600C18-16GTZN</string>
+					<key>SerialNumber</key>
+					<string>F5KCL0F0P7QM</string>
+					<key>Size</key>
+					<integer>16384</integer>
+					<key>Speed</key>
+					<integer>3600</integer>
 				</dict>
 				<dict>
 					<key>AssetTag</key>
